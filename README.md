@@ -2,8 +2,8 @@
 Это API для магазина, которое позволяет управлять товарами, заказами, пользователями и другими элементами вашего магазина.
 
 # Запуск backend
-1. docker-compose build
-2. docker-compose up
+```docker-compose build```
+```docker-compose up```
 
 # Технологии
 - Python
