@@ -25,11 +25,9 @@ VK_SECRET_KEY='<YOUR_VK_SECRET_KEY>'
 ```docker-compose up```
 
 # Технологии
-- Python
 - Django REST Framework
 - PostgreSQL
 - Docker
-- Docker Compose
 - Celery
 - MailHog
 - Redis
